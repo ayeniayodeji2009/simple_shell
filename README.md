@@ -35,5 +35,5 @@ controlC: avoid program closing when pressing ctrl + c.
 main: initialize program.
 
 Authors
-Ayeni Ayodeji Olugbenga | ayeniayodeji2009@gmail.com 
+Ayeni Ayodeji Olugbenga | ayeniayodeji2009@gmail.com
 Chinonso Onodi |
